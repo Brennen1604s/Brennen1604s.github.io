@@ -1,0 +1,25 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.paragraphcustom {
+	text-align: center;
+	color:black;
+	font-family: avenir;
+	font-size:20px;
+	padding-left:30px;
+	padding-right: 30px;
+	line-height: 60px
+}
+
+.paragraphcustomcontact {
+	text-align: center;
+	color:black;
+	font-family: avenir;
+	font-size:20px;
+	padding-left:30px;
+	padding-right: 30px;
+}
