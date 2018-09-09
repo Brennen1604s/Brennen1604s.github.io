@@ -13,5 +13,5 @@ function myFunction() {
 }
 
 function sryof() {
-  alert('Sorry, we currently only offer free asdasd')
+  alert('Sorry, we currently only offer free templates.')
 }
